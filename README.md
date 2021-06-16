@@ -2,8 +2,8 @@
 Learn python for data science 
 
 # part 1 : Basics 
-Variable
-Numbers
+Variable \n
+Numbers \n
 STRINGS
 LISTS
 Dictionary and Tuple
